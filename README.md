@@ -1,4 +1,4 @@
-# vue-time-blocking
+# Vue.js Time Blocking App
 
 ## Project setup
 ```
@@ -14,6 +14,9 @@ yarn serve
 ```
 yarn build
 ```
+
+### Demo
+[Test it here](http://github.com)
 
 ### Lints and fixes files
 ```
